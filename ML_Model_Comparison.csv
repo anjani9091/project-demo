@@ -1,0 +1,6 @@
+Model,Training Accuracy,Testing Accuracy,Precision,Recall,F1 Score
+Random Forest,100.0,92.5,92.41,85.89,89.03
+KNN,92.04,88.98,86.36,81.83,84.03
+Naive Bayes,75.7,74.64,64.08,64.73,64.4
+SVM,93.91,93.02,93.68,86.12,89.74
+Decision Tree,100.0,85.96,79.99,80.53,80.26
